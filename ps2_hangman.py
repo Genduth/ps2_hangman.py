@@ -1,7 +1,7 @@
 # Title:Hangman PS2
 # Name: George Warlow
 # Hours Spent: 6
-# Update: DONEZO
+# Update: DONEZO 2
 # Date: 08/11/2025
 
 #variables
